@@ -9,12 +9,12 @@ body {
     background: #f4f4f0;
     color: #222;
     min-height: 100vh;
-    display: flex;              /* Flexbox: el pie queda siempre abajo */
+    display: flex;             
     flex-direction: column;
 }
 
 header {
-    background: red;
+    background: blue;
     color: white;
     text-align: center;
     padding: 28px 20px;

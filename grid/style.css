@@ -39,7 +39,7 @@ h1 {
 
 .cabecera {
     grid-area: cabecera;
-    background: lightskyblue;
+    background: rgb(58, 137, 187);
 }
 
 .menu {
@@ -55,13 +55,13 @@ h1 {
 
 .barra-lateral {
     grid-area: barra;
-    background: #6b4e41;
+    background: #773d23;
     color: black;
 }
 
 .pie {
     grid-area: pie;
-    background: pink;
+    background: rgb(122, 27, 43);
     padding-top: 14px;
 }
 
